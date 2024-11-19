@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cff33ffccShagu|cffffffffScore
+## Author: Shagu, 2015-2017 Tradiccion: PotoBW (2024)
+## Notes: Mostrar la clasificación del equipo según el nivel del artículo y el color
+## Version: 2.0
+ShaguScore.lua
+Database.lua
