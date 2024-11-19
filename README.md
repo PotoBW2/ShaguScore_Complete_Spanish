@@ -18,8 +18,8 @@ PayPal: joseamosher@gmail.com
 
 ![character](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguScore/character.jpg)
 
-## Installación
-1. Descargar **[Ultima Verión](https://github.com/PotoBW2/ShaguScore_Complete_Spanish/releases/download/ShaguScore_2.0/ShaguScore.rar)**
+## Instalación
+1. Descargar **[Ultima Versión](https://github.com/PotoBW2/ShaguScore_Complete_Spanish/releases/download/ShaguScore_2.0/ShaguScore.rar)**
 2. Descomprima el archivo RAR
 3. Copiar "ShaguScore" en Directorio-del-WoW\Interface\AddOns
 4. Reiniciar Wow
